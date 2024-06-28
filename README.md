@@ -1,0 +1,1 @@
+# CVH-2024-01: Loja virtual
